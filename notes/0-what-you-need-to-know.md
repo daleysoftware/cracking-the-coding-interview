@@ -69,8 +69,8 @@ Binary search is a search algorithm that finds the position of a target value wi
 ## Merge sort
 
 Merge sort is a divide and conquer sorting algorithm that divides the unsorted lists into `n`
-sublists, each contianing 1 element. Then, repeatedly merge sublists to produce new sorted sublists
-until there is only 1 sublist remaining. This will be the sorted list.
+sub-lists, each containing 1 element. Then, repeatedly merge sublists to produce new sorted
+sub-lists until there is only 1 sub-list remaining. This will be the sorted list.
 
 ## Quick sort
 
