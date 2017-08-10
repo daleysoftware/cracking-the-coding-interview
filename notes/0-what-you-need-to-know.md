@@ -1,5 +1,7 @@
 # What you need to know
 
+According to the book.
+
 ## Linked Lists
 
 A linked list is a linear collection of data elements, called nodes, each pointing to the next node
